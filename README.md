@@ -1,3 +1,17 @@
+# Rocket Punch
+
+## Available Scripts
+
+### `npm run pack`
+
+Build your packages
+
+### `npm run publish`
+
+Publish your packages
+
+# Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
