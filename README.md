@@ -10,6 +10,14 @@ Build your packages
 
 Publish your packages
 
+### `npm run view`
+
+View remote information of your packages
+
+### `npm run doctor`
+
+Check configs is validated for rocket-punch
+
 # Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
